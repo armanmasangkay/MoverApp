@@ -1,0 +1,14 @@
+Requirements
+
+-app should check downloads every 5 secs
+-app moves files from downloads to documents depending on their extension
+    folders available are:
+    -images ()
+    -documents(.html,.htm,.odt,.pdf,.xls,.xlsx,.ods,.ppt,.pptx,.txt)
+    -programs(app,bin,action,command,csh,osx,workflow,jar,dmg,pkg)
+    -compressed (7z,zip,rar,gz,lzip,tar.gz)
+    -uncatogerized
+
+
+check file if it is in the exclude list
+if it is not, then we move the file

@@ -1,0 +1,11 @@
+.app
+.bin
+.action
+.command
+.csh
+.osx
+.workflow
+.jar
+.dmg
+.pkg
+.bat

@@ -1,0 +1,6 @@
+.tiff
+.png
+.gif
+.jpeg
+.jpg
+.psd

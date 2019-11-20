@@ -1,0 +1,13 @@
+.html
+.htm
+.odt
+.pdf
+.xls
+.xlsx
+.ods
+.ppt
+.pptx
+.txt
+.doc
+.docx
+.csv
